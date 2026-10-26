@@ -7,14 +7,21 @@ A modern, streamlined, and modular Neovim configuration built for speed, aesthet
 ## 📸 Preview
 
 <div align="center">
-  <img src="ScreenShots/editor-preview.png" alt="Editor UI Preview" width="100%" />
-</div>
+
+> *"Where aesthetics meets functionality and speed."*
 
 <br/>
 
-<div align="center">
-  <img src="ScreenShots/lazy-profile-preview.png" alt="Lazy Profile & Fast Startup Benchmark" width="49%" />
-  <img src="ScreenShots/fzf-preview.png" alt="Fzf UI" width="49%" />
+<img src="./ScreenShots/editor-preview.png" alt="Editor UI Preview" width="100%" />
+
+<br/><br/>
+
+<p align="center">
+  <img src="./ScreenShots/lazy-profile-preview.png" alt="Lazy Profile & Fast Startup Benchmark" width="49%" />
+  &nbsp;
+  <img src="./ScreenShots/fzf-preview.png" alt="Fzf-Lua Fuzzy Finder Preview" width="49%" />
+</p>
+
 </div>
 
 ---
