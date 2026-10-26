@@ -14,7 +14,7 @@ A modern, streamlined, and modular Neovim configuration built for speed, aesthet
 
 <div align="center">
   <img src="ScreenShots/lazy-profile-preview.png" alt="Lazy Profile & Fast Startup Benchmark" width="49%" />
-  <img src="ScreenShots/noice-preview.png" alt="Noice Floating UI & Command Palette" width="49%" />
+  <img src="ScreenShots/fzf-preview.png" alt="Noice Floating UI & Command Palette" width="49%" />
 </div>
 
 ---
