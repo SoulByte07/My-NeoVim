@@ -4,6 +4,21 @@ A modern, streamlined, and modular Neovim configuration built for speed, aesthet
 
 ---
 
+## 📸 Preview
+
+<div align="center">
+  <img src="ScreenShots/editor-preview.png" alt="Editor UI Preview" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="ScreenShots/lazy-profile-preview.png" alt="Lazy Profile & Fast Startup Benchmark" width="49%" />
+  <img src="ScreenShots/noice-preview.png" alt="Noice Floating UI & Command Palette" width="49%" />
+</div>
+
+---
+
 ## ⚡ Performance & Executive Flex
 
 ### The Executive Flex Summary
