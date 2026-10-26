@@ -1,0 +1,20 @@
+# Neovim swap, backup, and undo files
+*.swp
+*.swo
+*.swn
+*~
+*.bak
+
+# Neovim persistent sessions & shada files
+*.shada
+*.shada.*
+
+# Lazy plugin manager lockfile (uncomment if you want users to manage locks locally)
+# lazy-lock.json
+
+# Mason package manager state / logs
+mason-debug.log
+
+# System & Editor artifacts
+.DS_Store
+Thumbs.db
